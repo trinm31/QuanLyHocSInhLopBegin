@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/bin/Debug/net5.0/QuanLyHocSinh.deps.json
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/bin/Debug/net5.0/QuanLyHocSinh.runtimeconfig.json
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/bin/Debug/net5.0/QuanLyHocSinh.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/bin/Debug/net5.0/QuanLyHocSinh.dll
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/bin/Debug/net5.0/ref/QuanLyHocSinh.dll
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/bin/Debug/net5.0/QuanLyHocSinh.pdb
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.dll
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/ref/QuanLyHocSinh.dll
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.pdb
+/Users/tringuyen/RiderProjects/QuanLyHocSinh/QuanLyHocSinh/obj/Debug/net5.0/QuanLyHocSinh.genruntimeconfig.cache
